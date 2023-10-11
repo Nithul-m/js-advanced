@@ -1,0 +1,20 @@
+{
+    "students": [
+
+{
+    "name":"Nithul",
+    "age":"28",
+    "place":"Kochi",
+    "student": true,
+    "languages": ["malayalam","english","hindi","tamil"]
+},
+
+{
+    "name":"Raji",
+    "age":"59",
+    "place":"Ottapalam",
+    "student": true,
+    "languages": ["malayalam","english","hindi"]
+}
+    ]
+}
